@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "Arturo Jain",
+    "label": "Web developer",
+    "picture": "http://arturojain.com/images/arturojain.jpg",
+    "email": "arturo.jaindo@udlap.mx",
+    "phone": "+52 1 (222) 215 4541",
+    "website": "http://arturojain.com",
+    "summary": "I devoted my life to media, content creation, and community management using low-budget technologies, achieving and exceeding my established — and own — goals. My experience has grown overtime by working in several projects gaining knowledge in design, marketing, photography, and my bachelor as an IT and systems engineer.",
+    "location": {
+      "address": "Lomas de Angelopolis III",
+      "postalCode": "72850",
+      "city": "Santa Clara Ocoyucan",
+      "countryCode": "MX",
+      "region": "Puebla"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "arturojain",
+        "url": "https://github.com/arturojain"
+      },
+      {
+        "network": "Twitter",
+        "username": "arturojain",
+        "url": "https://twitter.com/arturojain"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "arturojain",
+        "url": "https://mx.linkedin.com/in/arturojain"
+      },
+      {
+        "network": "Mail",
+        "username": "arturojain",
+        "url": "https://tinyletter.com/arturojain"
+      },
+      {
+        "network": "Medium",
+        "username": "arturojain",
+        "url": "https://medium.com/@arturojain"
+      }
+    ]
+  },
+  "work" : [
+    {
+      "company": "io media, S.A. de C.V.",
+      "position": "Developer",
+      "website": "https://iomedia.mx",
+      "startDate": "2015-06-22",
+      "summary": "Development of web platforms, design of digital communication and IT administration.",
+      "highlights": [
+        "Universidad de las Américas Puebla (UDLAP)",
+        "TEDxUDLAP",
+        "Salutem, Centro de Especialidades Médicas",
+        "Grupo Proactivo Mexicano"
+      ]
+    },
+    {
+      "company": "T-Systems Mexico",
+      "position": "Internship",
+      "website": "http://www.t-systems.com.mx",
+      "startDate": "2014-04-01",
+      "endDate": "2015-05-01",
+      "summary": "Creation of the web platforms Innova-T, platform to promote the innovation in the employees with the creation and generation of ideas and projects using a voting (liking) system to promote the best ideas or projects, and GIS, web app to book meeting rooms and invite guests to the meeting, support of the Innovation area as UX designer.",
+      "highlights": [
+        "Development of both the Innova-T platform and the GIS platform. Both were platforms that had not been developed for over two years prior to my arrival and were deployed and developed in record time. The GIS app is an app that reduces cost to the company due to the lack of need of people to book meeting rooms, previously done by the Service Desk.",
+        "Web development using Java Web, jQuery, JavaScript, HTML, CSS and MySQL. UX design, designing the UI for GIS, Innova-T, Localiza-T and more."
+      ]
+    },
+    {
+      "company": "Signlight Mexico",
+      "position": "Trainee",
+      "website": "http://signlight.com.mx",
+      "startDate": "2014-02-01",
+      "endDate": "2015-05-01",
+      "summary": "Website development, consultancy in information technology and communication, English-Spanish translation and oral interpretation.",
+      "highlights": [
+        "Web development, English-Spanish translation and oral interpretation in countries like South Korea and the United States.",
+        "English-Spanish translation and oral interpretation, web design, web development, knowledge of information and communication technologies applied in business."
+      ]
+    },
+    {
+      "company": "NP Lighting Gruppe GmbH",
+      "position": "Trainee",
+      "startDate": "2012-01-01",
+      "endDate": "2013-12-01",
+      "summary": "Website development, consultancy in information technology and communication, English-Spanish translation and oral interpretation.",
+      "highlights": [
+        "Web development, English-Spanish translation and oral interpretation in countries like South Korea and the United States.",
+        "English-Spanish translation and oral interpretation, web design, web development, knowledge of information and communication technologies applied in business."
+      ]
+    },
+    {
+      "company": "Revista DiGGital",
+      "position": "Editor in Chief",
+      "startDate": "2010-01-01",
+      "endDate": "2012-12-01",
+      "summary": "Design strategies to reach more monthly readers. Monitor the published content and establish the strategy of the blog. Connect with companies and events in order to get new or exclusive information to our readers.",
+      "highlights": [
+        "40K+ monthly readers. Connections with events like Aldea Digital, Campus Party and the Electronic Game Show (EGS) in Mexico. Creation of a UI that the user loved and worked as needed.",
+        "Web development, social media strategies, CMS implementation, UI design, project management, resource allocation, public speaking and writing/publishing abilities."
+      ]
+    },
+    {
+      "company": "Halo Mexico / Gaming Mexicano Profesional",
+      "position": "Community manager",
+      "startDate": "2008-10-01",
+      "endDate": "2010-12-01",
+      "summary": "Creating and producing live video streaming, video content and engaging the community in brand.",
+      "highlights": [
+        "Developing a professional live video stream with a very low budget. Engaging a community of 1.1K+ people to a new brand. Implementing new technologies to help communicate, control and engage the community.",
+        "Video production, live video stream production, event production, community management, technolo- gies consultancy and expertise."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Sustenta, Centro de Responsabilidad Social",
+      "position": "Information and Communication Technologies",
+      "website": "http://centrosustenta.org.mx",
+      "startDate": "2014-08-01",
+      "endDate": "2015-05-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de las Americas Puebla (UDLAP)",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-01",
+      "endDate": "2016-06-01"
+    },
+    {
+      "institution": "Universidad la Salle Mexico (ULSA)",
+      "area": "High School",
+      "studyType": "High School",
+      "startDate": "2008-08-01",
+      "endDate": "2011-06-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "TEDxUDLAP Co-organizer",
+      "date": "2016-06-01",
+      "awarder": "TED Conferences, LLC"
+    },
+    {
+      "title": "TEDxUDLAP Licensee",
+      "date": "2015-03-16",
+      "awarder": "TED Conferences, LLC"
+    },
+    {
+      "title": "Clavinova ensemble national second place",
+      "date": "2008-05-01",
+      "awarder": "Yamaha Mexico"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Intuitivity: Interaction in the cities",
+      "publisher": "PechaKucha Night Puebla Vol 5",
+      "releaseDate": "2015-02-20",
+      "url": "http://www.pechakucha.org/presentations/intuitividad-interaccion-integrada-en-las-ciudades",
+      "summary": "Intuitive. A natural ability or power that makes it possible to know something without any proof or evidence or a feeling that leads a person to act a certain way without fully understanding why."
+    },
+    {
+      "name": "Digital Notary",
+      "publisher": "Universidad de las Américas Puebla",
+      "releaseDate": "2016-05-17",
+      "url": "http://catarina.udlap.mx/u_dl_a/tales/documentos/lst/jain_d_a/",
+      "summary": "The aim of this paper is to present a proposal for the issuance of documents and digital files as legal instruments for the acceptance of acts or events where different actors can sign and can be authenticated."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web development",
+      "keywords": [
+        "Java",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "Angular.js",
+        "jQuery",
+        "JSON",
+        "XML",
+        "PHP",
+        "Heroku",
+        "Bootstrap",
+        "Auth0",
+        "Conekta.js",
+        "CloudFlare",
+        "AWS S3",
+        "Sparkpost",
+        "Mailchimp API",
+        "Express.js",
+        "JavaScript Standard Style",
+        "SASS",
+        "Jade",
+        "Papertrail",
+        "Moment.js"
+      ]
+    },
+    {
+      "name": "Project managment",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Asana",
+        "Basecamp",
+        "Slack",
+        "Wunderlist",
+        "Mixpanel"
+      ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "Web design",
+        "UI design",
+        "UX design",
+        "Adobe Creative Suite",
+        "Photography",
+        "Video post-production"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "Database design",
+        "MySQL",
+        "Microsoft SQL Server",
+        "PostgreSQL",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Communication",
+      "keywords": [
+        "Intercultural communication",
+        "Language teaching",
+        "Translation",
+        "Interpretation",
+        "Public speaking"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "keywords": [
+        "ExtremeXOS Fundamentals",
+        "iOS 8 App Development Essentials"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "DGI Plotters",
+        "LED lighting systems",
+        "Piano interpretation",
+        "HappyFox Chat"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Esperanto",
+      "fluency": "Very Basic"
+    }
+  ]
+}
